@@ -65,6 +65,6 @@ jobs:
         
         cp ../public/visionplus.xml ./visionplus.xml
         
-        git add guide.xml
+        git add visionplus.xml
         git commit -m "Update EPG otomatis harian" || echo "Tidak ada perubahan jadwal"
         git push origin HEAD:${{ github.ref }}
