@@ -3,25 +3,20 @@
   <channel id="Warner.id">
     <display-name>Warner TV</display-name>
   </channel>
-  <channel id="CinemaxAsia.sg@SD">
-    <display-name>Cinemax</display-name>
-    <icon src="https://i.imgur.com/c8crJfA.png"/>
+  <channel id="HBO.id">
+    <display-name>HBO HD</display-name>
   </channel>
-  <channel id="HBOAsia.sg@SD">
-    <display-name>HBO</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png"/>
+  <channel id="HBOSignature.id">
+    <display-name>HBO Signature HD</display-name>
   </channel>
-  <channel id="HBOFamilyAsia.sg@SD">
-    <display-name>HBO Family</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/960px-HBO_Family_Asia_logo.svg.png"/>
+  <channel id="HBOHits.id">
+    <display-name>HBO Hits HD</display-name>
   </channel>
-  <channel id="HBOHitsAsia.sg@SD">
-    <display-name>HBO Hits</display-name>
-    <icon src="https://i.imgur.com/CTjmocc.png"/>
+  <channel id="HBOFamily.id">
+    <display-name>HBO Family HD</display-name>
   </channel>
-  <channel id="HBOSignatureAsia.sg@SD">
-    <display-name>HBO Signature</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/960px-HBO_Signature_Asia.png"/>
+  <channel id="Cinemax.id">
+    <display-name>Cinemax HD</display-name>
   </channel>
   <programme start="20260815154000 +0000" stop="20260815172500 +0000" channel="Warner.id">
     <title lang="id">Cellular</title>
