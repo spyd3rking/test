@@ -3,18 +3,1791 @@
   <channel id="Warner.id">
     <display-name>Warner TV</display-name>
   </channel>
-  <channel id="HBO.id">
+  <channel id="HBOAsia.sg@SD">
     <display-name>HBO HD</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png"/>
   </channel>
-  <channel id="HBOHits.id">
-    <display-name>HBO Hits</display-name>
+  <channel id="HBOFamilyAsia.sg@SD">
+    <display-name>HBO Family (HD)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/960px-HBO_Family_Asia_logo.svg.png"/>
   </channel>
-  <channel id="HBOFamily.id">
-    <display-name>HBO Family</display-name>
+  <channel id="HBOHitsAsia.sg@SD">
+    <display-name>HBO Hits (HD)</display-name>
+    <icon src="https://i.imgur.com/CTjmocc.png"/>
   </channel>
-  <channel id="Cinemax.id">
-    <display-name>Cinemax</display-name>
+  <channel id="HBOSignatureAsia.sg@SD">
+    <display-name>HBO Signature (HD)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/960px-HBO_Signature_Asia.png"/>
   </channel>
+  <channel id="CinemaxAsia.sg@SD">
+    <display-name>CINEMAX (HD)</display-name>
+    <icon src="https://i.imgur.com/c8crJfA.png"/>
+  </channel>
+  <programme start="20260815153500 +0000" stop="20260815171000 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">CHANGING LANES</title>
+    <desc lang="en">A moment of self-absorption and a spark of anger will cause two men to cross the line between right and wrong, good and evil, rage and redemption.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260815171000 +0000" stop="20260815185500 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">SLEEPY HOLLOW</title>
+    <desc lang="en">Johnny Depp plays a fearless constable who has to confront the horrifying legend of the Headless Horseman in this Tim Burton-directed horror.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260815185500 +0000" stop="20260815201500 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">LOVE HURTS</title>
+    <desc lang="en">A seemingly mild-mannered realtor with a dark secret is forced to confront the choices that haunt him and the history he never truly buried.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260815201500 +0000" stop="20260815220500 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">DEATH OF A UNICORN</title>
+    <desc lang="en">Father-Daughter duo Elliott and Ridley hit a unicorn with their car and bring it to the wilderness retreat of a mega-wealthy pharmaceutical CEO.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260815220500 +0000" stop="20260815234000 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">JUSTICE LEAGUE: CRISIS ON INFINITE EARTHS - PART ONE</title>
+    <desc lang="en">Death is coming. But what can the combined might of Superman, Wonder Woman, Batman, and hundreds of heroes do to save all reality from ARMAGEDDON?!</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260815234000 +0000" stop="20260816010500 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">SCARY MOVIE 3</title>
+    <desc lang="en">The third instalment of Scary Movie is one hell of a spoof of many a great movie.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260816010500 +0000" stop="20260816025500 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">MAN WITH NO PAST</title>
+    <desc lang="en">A man with no memory searches for the truth of his past, only to be led straight into a lethal showdown with a powerful enemy.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260816025500 +0000" stop="20260816043000 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">BLACK BAG</title>
+    <desc lang="en">An intelligence agent is suspected of betraying the nation, forcing her agent husband to choose between loyalty to his marriage or his country.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260816043000 +0000" stop="20260816061500 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">TAG</title>
+    <desc lang="en">Five competitive friends hit the ground running with their annual game of tag, coinciding with the wedding of their only undefeated player, making him an easy target.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260816061500 +0000" stop="20260816075500 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">CHANGING LANES</title>
+    <desc lang="en">A moment of self-absorption and a spark of anger will cause two men to cross the line between right and wrong, good and evil, rage and redemption.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260816075500 +0000" stop="20260816093500 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">DADDY'S HOME 2</title>
+    <desc lang="en">Dusty and Brad have joined forces to provide their kids with the perfect Christmas. Things take a turn when their own dads arrive and throw the holiday into chaos.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260816093500 +0000" stop="20260816100500 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">HOLLYWOOD ON SET S1</title>
+    <desc lang="en">Each week Hollywood On Set goes behind-the-scenes on three major movies in production, featuring action footage and interviews with filmmakers.</desc>
+    <category lang="en">Specials</category>
+  </programme>
+  <programme start="20260816100500 +0000" stop="20260816114500 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">ROCKET SCIENCE</title>
+    <desc lang="en">A wry comedy of adolescent angst and confusion, this HBO Original Movie traces a teenager's journey of tackling the mysteries of life, love and public speaking.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260816114500 +0000" stop="20260816140000 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">THE MATRIX</title>
+    <desc lang="en">An average computer programmer trains to become humanity's last hope for survival.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260816140000 +0000" stop="20260816153500 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">NINJA ASSASSIN</title>
+    <desc lang="en">Trained from childhood in the way of the Ozunu Clan, deadly assassin Raizo is stalked by fellow warriors for breaking free of them and their patriarch.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260816153500 +0000" stop="20260816172000 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">MORTAL KOMBAT</title>
+    <desc lang="en">It's up to a trio of Earth's best to save the day and the planet as they fight warriors from the netherworld, in an ancient tournament known as Mortal Kombat.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260816153500 +0000" stop="20260816172000 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">MORTAL KOMBAT</title>
+    <desc lang="en">It's up to a trio of Earth's best to save the day and the planet as they fight warriors from the netherworld, in an ancient tournament known as Mortal Kombat.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260816172000 +0000" stop="20260816193000 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">BATMAN</title>
+    <desc lang="en">After witnessing the death of his parents as a child, Bruce Wayne pledges his life and resources to combating crime as the Caped Crusader, Batman.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260816193000 +0000" stop="20260816200000 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">HOLLYWOOD ON SET S1</title>
+    <desc lang="en">Each week Hollywood On Set goes behind-the-scenes on three major movies in production, featuring action footage and interviews with filmmakers.</desc>
+    <category lang="en">Specials</category>
+  </programme>
+  <programme start="20260816200000 +0000" stop="20260816220000 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">SCREAM 2</title>
+    <desc lang="en">Someone has taken his love of sequels one step too far – and the killings begin again.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260816220000 +0000" stop="20260816233500 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">THE GATHERING STORM</title>
+    <desc lang="en">The story of Winston Churchill unfolds in this award winning HBO Original Movie.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260816233500 +0000" stop="20260817011500 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">TAG</title>
+    <desc lang="en">Five competitive friends hit the ground running with their annual game of tag, coinciding with the wedding of their only undefeated player, making him an easy target.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260817011500 +0000" stop="20260817033000 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">THE MATRIX</title>
+    <desc lang="en">An average computer programmer trains to become humanity's last hope for survival.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260817033000 +0000" stop="20260817053500 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">BATMAN</title>
+    <desc lang="en">After witnessing the death of his parents as a child, Bruce Wayne pledges his life and resources to combating crime as the Caped Crusader, Batman.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260817053500 +0000" stop="20260817071500 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">MORTAL KOMBAT</title>
+    <desc lang="en">It's up to a trio of Earth's best to save the day and the planet as they fight warriors from the netherworld, in an ancient tournament known as Mortal Kombat.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260817071500 +0000" stop="20260817085000 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">ROCKET SCIENCE</title>
+    <desc lang="en">A wry comedy of adolescent angst and confusion, this HBO Original Movie traces a teenager's journey of tackling the mysteries of life, love and public speaking.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260817085000 +0000" stop="20260817102500 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">PU-239</title>
+    <desc lang="en">A worker at a Russian nuclear plant steals a small amount of weapons grade plutonium and tries to sell it on the Moscow black market.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260817102500 +0000" stop="20260817122000 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">BOYCOTT</title>
+    <desc lang="en">A HBO Original movie based on the 13-month boycott of the use of bus services in Alabama after a black woman refuses to give up her seat to a white man.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260817122000 +0000" stop="20260817140000 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">WIFELIKE</title>
+    <desc lang="en">Designed to behave like the late wife of a detective, an artificial human questions her reality as memories of a past life begin to resurface.</desc>
+    <category lang="en">Sci-Fi</category>
+  </programme>
+  <programme start="20260817140000 +0000" stop="20260817154500 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">WOLF MAN</title>
+    <desc lang="en">The moon is full. The terror is real. Christopher Abbott stars as a man who is willing to protect his family from a terrorizing lethal predator.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260817154500 +0000" stop="20260817175000 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">BATMAN RETURNS</title>
+    <desc lang="en">In the second of the blockbuster Batman films, the physically deformed criminal genius The Penguin threatens Gotham City. Helpless, the entire city can only pray that Batman Returns.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260817154500 +0000" stop="20260817175000 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">BATMAN RETURNS</title>
+    <desc lang="en">In the second of the blockbuster Batman films, the physically deformed criminal genius The Penguin threatens Gotham City. Helpless, the entire city can only pray that Batman Returns.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260817175000 +0000" stop="20260817195000 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">SCREAM 2</title>
+    <desc lang="en">Someone has taken his love of sequels one step too far – and the killings begin again.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260817195000 +0000" stop="20260817211000 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">THE DICTATOR</title>
+    <desc lang="en">The world's worst dictator finds himself in America and having to live the American dream.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260817211000 +0000" stop="20260817225000 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">CLEAR HISTORY</title>
+    <desc lang="en">After an argument with his boss, Nathan changes his identity to escape public humiliation – only to find his past disrupting his new life.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260817225000 +0000" stop="20260818002500 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">HOSTILE WATERS</title>
+    <desc lang="en">When a Russian nuclear submarine collides with an American submarine, the two captains must work together to prevent a nuclear meltdown.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260818002500 +0000" stop="20260818005500 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">HOLLYWOOD ON SET S1</title>
+    <desc lang="en">Each week Hollywood On Set goes behind-the-scenes on three major movies in production, featuring action footage and interviews with filmmakers.</desc>
+    <category lang="en">Specials</category>
+  </programme>
+  <programme start="20260818005500 +0000" stop="20260818023500 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">WIFELIKE</title>
+    <desc lang="en">Designed to behave like the late wife of a detective, an artificial human questions her reality as memories of a past life begin to resurface.</desc>
+    <category lang="en">Sci-Fi</category>
+  </programme>
+  <programme start="20260818023500 +0000" stop="20260818042000 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">CADDO LAKE</title>
+    <desc lang="en">The disappearance of an eight-year-old girl sets off a chain of events.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260818042000 +0000" stop="20260818061000 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">RUN ALL NIGHT</title>
+    <desc lang="en">After killing the son of a fellow mobster, an aging hitman must keep his estranged son alive for one night after being marked for death by the mob.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260818061000 +0000" stop="20260818074500 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">DROP</title>
+    <desc lang="en">Dating can be deadly. Violet's dinner with Henry is upended by a series of phone drops presenting a sinister choice: kill her date or lose her child.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260818074500 +0000" stop="20260818094000 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">BOYCOTT</title>
+    <desc lang="en">A HBO Original movie based on the 13-month boycott of the use of bus services in Alabama after a black woman refuses to give up her seat to a white man.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260818094000 +0000" stop="20260818115500 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">INDICTMENT: THE MCMARTIN TRIAL</title>
+    <desc lang="en">A fact-based drama based on the longest and most expensive trial in American history that ended without a single conviction.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260818115500 +0000" stop="20260818140000 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">BATMAN RETURNS</title>
+    <desc lang="en">In the second of the blockbuster Batman films, the physically deformed criminal genius The Penguin threatens Gotham City. Helpless, the entire city can only pray that Batman Returns.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260818140000 +0000" stop="20260818153000 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">ALARUM</title>
+    <desc lang="en">Forced out of hiding, former assassin couple Joe and Lara Travers must use their deadly skills from their past to survive the imminent threat.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260818153000 +0000" stop="20260818170000 +0000" channel="CinemaxAsia.sg@SD">
+    <title lang="en">THE STRANGER IN MY HOME</title>
+    <desc lang="en">Ali and her daughter Katie have a perfect life - until a stranger claims to be Katie's father.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260815143000 +0000" stop="20260815172000 +0000" channel="HBOAsia.sg@SD">
+    <title lang="en">MISSION: IMPOSSIBLE – THE FINAL RECKONING</title>
+    <desc lang="en">Our lives are the sum of our choices. Tom Cruise is Ethan Hunt in Mission: Impossible – The Final Reckoning.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260815172000 +0000" stop="20260815193000 +0000" channel="HBOAsia.sg@SD">
+    <title lang="en">WEAPONS</title>
+    <desc lang="en">All but one child from the same class vanishes leaving a community questioning who or what is behind their disappearance.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260815193000 +0000" stop="20260815200000 +0000" channel="HBOAsia.sg@SD">
+    <title lang="en">HOLLYWOOD ON SET S1</title>
+    <desc lang="en">Each week Hollywood On Set goes behind-the-scenes on three major movies in production, featuring action footage and interviews with filmmakers.</desc>
+    <category lang="en">Specials</category>
+  </programme>
+  <programme start="20260815200000 +0000" stop="20260815203000 +0000" channel="HBOAsia.sg@SD">
+    <title lang="en">LEGO JURASSIC PARK: THE UNOFFICIAL RETELLING</title>
+    <desc lang="en">The ever charming and now slightly older Chaos Mathematician Dr. Ian Malcolm retells the tale of what happened that dreadful night at Jurassic Park.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260815203000 +0000" stop="20260815220500 +0000" channel="HBOAsia.sg@SD">
+    <title lang="en">HIM</title>
+    <desc lang="en">A rising star quarterback suffers a potentially career-ending brain trauma after an attack by an unhinged fan.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260815220500 +0000" stop="20260815235500 +0000" channel="HBOAsia.sg@SD">
+    <title lang="en">IMAGINE THAT</title>
+    <desc lang="en">When a successful executive suffers a crisis of confidence and his career is at stake, he finds the solution to his problems in his daughter's imaginary world.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260815235500 +0000" stop="20260816012000 +0000" channel="HBOAsia.sg@SD">
+    <title lang="en">RUGRATS GO WILD</title>
+    <desc lang="en">The family vacation goes overboard when the Rugrats meet the Wild Thornberrys for a toon-spin of a time!</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260816012000 +0000" stop="20260816030500 +0000" channel="HBOAsia.sg@SD">
+    <title lang="en">HOW TO TRAIN YOUR DRAGON: THE HIDDEN WORLD</title>
+    <desc lang="en">Faced with an impending threat unlike others, Hiccup and Toothless battle to protect all that they love with a female Light Fury as they travel to a mythical hidden world.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260816030500 +0000" stop="20260816050000 +0000" channel="HBOAsia.sg@SD">
+    <title lang="en">THE HUNTSMAN: WINTER'S WAR</title>
+    <desc lang="en">The story before Snow White: During the war between two queens, the huntsman must vanquish the evil queen before her wickedness rules for eternity.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260816050000 +0000" stop="20260816073000 +0000" channel="HBOAsia.sg@SD">
+    <title lang="en">HARRY POTTER AND THE PRISONER OF AZKABAN</title>
+    <desc lang="en">Harry, Ron and Hermione return as teenagers for a third term at Hogwarts School of Witchcraft and Wizardry and must face a dangerous convict.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260816073000 +0000" stop="20260816101000 +0000" channel="HBOAsia.sg@SD">
+    <title lang="en">HARRY POTTER AND THE GOBLET OF FIRE</title>
+    <desc lang="en">A competition will be held between three schools of wizardry. The Goblet of Fire makes its final selection for the competition - Harry Potter.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260816101000 +0000" stop="20260816130000 +0000" channel="HBOAsia.sg@SD">
+    <title lang="en">MISSION: IMPOSSIBLE – THE FINAL RECKONING</title>
+    <desc lang="en">Our lives are the sum of our choices. Tom Cruise is Ethan Hunt in Mission: Impossible – The Final Reckoning.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260816130000 +0000" stop="20260816153000 +0000" channel="HBOAsia.sg@SD">
+    <title lang="en">TRANSFORMERS: DARK OF THE MOON</title>
+    <desc lang="en">The Autobots race against the Decepticons to reach the Cybertronian spacecraft, which could turn the tide in their final battle.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260816153000 +0000" stop="20260816171000 +0000" channel="HBOAsia.sg@SD">
+    <title lang="en">THE MOMENT</title>
+    <desc lang="en">A rising pop star navigates the complexities of fame and industry pressure while preparing for her arena tour debut.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260816153000 +0000" stop="20260816171000 +0000" channel="HBOAsia.sg@SD">
+    <title lang="en">THE MOMENT</title>
+    <desc lang="en">A rising pop star navigates the complexities of fame and industry pressure while preparing for her arena tour debut.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260816171000 +0000" stop="20260816184000 +0000" channel="HBOAsia.sg@SD">
+    <title lang="en">HIM</title>
+    <desc lang="en">A rising star quarterback suffers a potentially career-ending brain trauma after an attack by an unhinged fan.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260816184000 +0000" stop="20260816201500 +0000" channel="HBOAsia.sg@SD">
+    <title lang="en">FINAL DESTINATION</title>
+    <desc lang="en">High school students, Alex and friends, avoided death when he has a premonition but the survivors discover that death isn't through with them yet.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260816201500 +0000" stop="20260816214500 +0000" channel="HBOAsia.sg@SD">
+    <title lang="en">ALL THE DEVILS ARE HERE</title>
+    <desc lang="en">After a heist, four criminals lay low in a remote safehouse. As paranoia builds, one thing becomes clear: the real threat is already inside.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260816214500 +0000" stop="20260816230500 +0000" channel="HBOAsia.sg@SD">
+    <title lang="en">RUGRATS GO WILD</title>
+    <desc lang="en">The family vacation goes overboard when the Rugrats meet the Wild Thornberrys for a toon-spin of a time!</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260816230500 +0000" stop="20260817010000 +0000" channel="HBOAsia.sg@SD">
+    <title lang="en">BUMBLEBEE</title>
+    <desc lang="en">A teenager trying to find her place in the world, discovers and repairs a battle-scarred robot, who's disguised as a Volkswagen Beetle.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260817010000 +0000" stop="20260817020000 +0000" channel="HBOAsia.sg@SD">
+    <title lang="en">LANTERNS S1</title>
+    <desc lang="en">The series follows new recruit John Stewart and Lantern legend Hal Jordan, two intergalactic cops drawn into a dark, earth-based mystery as they investigate a murder in the American heartland.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260817020000 +0000" stop="20260817034000 +0000" channel="HBOAsia.sg@SD">
+    <title lang="en">GABBY'S DOLLHOUSE: THE MOVIE</title>
+    <desc lang="en">Gabby and Grandma Gigi's road trip to Cat Francisco takes an unexpected turn when Gabby's prized dollhouse is swiped by an eccentric cat lady.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260817034000 +0000" stop="20260817062000 +0000" channel="HBOAsia.sg@SD">
+    <title lang="en">HARRY POTTER AND THE GOBLET OF FIRE</title>
+    <desc lang="en">A competition will be held between three schools of wizardry. The Goblet of Fire makes its final selection for the competition - Harry Potter.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260817062000 +0000" stop="20260817080500 +0000" channel="HBOAsia.sg@SD">
+    <title lang="en">A MINECRAFT MOVIE</title>
+    <desc lang="en">Four misfits struggling with ordinary problems are pulled through a portal into the Overworld.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260817080500 +0000" stop="20260817102500 +0000" channel="HBOAsia.sg@SD">
+    <title lang="en">HARRY POTTER AND THE ORDER OF THE PHOENIX</title>
+    <desc lang="en">When a new professor's methods leave Hogwarts unprepared to fight the rising tide of evil, Harry teaches students how to defend against the dark arts.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260817102500 +0000" stop="20260817130000 +0000" channel="HBOAsia.sg@SD">
+    <title lang="en">TRANSFORMERS: DARK OF THE MOON</title>
+    <desc lang="en">The Autobots race against the Decepticons to reach the Cybertronian spacecraft, which could turn the tide in their final battle.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260817130000 +0000" stop="20260817140000 +0000" channel="HBOAsia.sg@SD">
+    <title lang="en">LANTERNS S1</title>
+    <desc lang="en">The series follows new recruit John Stewart and Lantern legend Hal Jordan, two intergalactic cops drawn into a dark, earth-based mystery as they investigate a murder in the American heartland.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260817140000 +0000" stop="20260817153000 +0000" channel="HBOAsia.sg@SD">
+    <title lang="en">THE ASTRONAUT</title>
+    <desc lang="en">After returning from her first space mission, astronaut Sam Walker fears that something extraterrestrial has followed her back to Earth.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260817153000 +0000" stop="20260817171000 +0000" channel="HBOAsia.sg@SD">
+    <title lang="en">FINAL DESTINATION</title>
+    <desc lang="en">High school students, Alex and friends, avoided death when he has a premonition but the survivors discover that death isn't through with them yet.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260817153000 +0000" stop="20260817171000 +0000" channel="HBOAsia.sg@SD">
+    <title lang="en">FINAL DESTINATION</title>
+    <desc lang="en">High school students, Alex and friends, avoided death when he has a premonition but the survivors discover that death isn't through with them yet.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260817171000 +0000" stop="20260817184000 +0000" channel="HBOAsia.sg@SD">
+    <title lang="en">FINAL DESTINATION 2</title>
+    <desc lang="en">A group of friends on holiday finds that no matter how hard they try, they can't cheat Death twice.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260817184000 +0000" stop="20260817201500 +0000" channel="HBOAsia.sg@SD">
+    <title lang="en">NEIGHBORS</title>
+    <desc lang="en">Seth Rogen, Zac Efron and Rose Byrne star in this hilarious comedy of a young married couple forced to live next to a fraternity house.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260817201500 +0000" stop="20260817221000 +0000" channel="HBOAsia.sg@SD">
+    <title lang="en">BUMBLEBEE</title>
+    <desc lang="en">A teenager trying to find her place in the world, discovers and repairs a battle-scarred robot, who's disguised as a Volkswagen Beetle.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260817221000 +0000" stop="20260818002500 +0000" channel="HBOAsia.sg@SD">
+    <title lang="en">MICKEY 17</title>
+    <desc lang="en">Mickey Barnes is working for an employer who demands to die for a living.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260818002500 +0000" stop="20260818020000 +0000" channel="HBOAsia.sg@SD">
+    <title lang="en">LIKE CRAZY</title>
+    <desc lang="en">A British college student falls for an American student but finds out that they have to be separated.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260818020000 +0000" stop="20260818032500 +0000" channel="HBOAsia.sg@SD">
+    <title lang="en">TEEN TITANS GO! TO THE MOVIES</title>
+    <desc lang="en">The Teen Titans head to Tinsel Town to pursue their dream of starring in their own movies.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260818032500 +0000" stop="20260818035500 +0000" channel="HBOAsia.sg@SD">
+    <title lang="en">HOLLYWOOD ON SET S1</title>
+    <desc lang="en">Each week Hollywood On Set goes behind-the-scenes on three major movies in production, featuring action footage and interviews with filmmakers.</desc>
+    <category lang="en">Specials</category>
+  </programme>
+  <programme start="20260818035500 +0000" stop="20260818061500 +0000" channel="HBOAsia.sg@SD">
+    <title lang="en">HARRY POTTER AND THE ORDER OF THE PHOENIX</title>
+    <desc lang="en">When a new professor's methods leave Hogwarts unprepared to fight the rising tide of evil, Harry teaches students how to defend against the dark arts.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260818061500 +0000" stop="20260818080000 +0000" channel="HBOAsia.sg@SD">
+    <title lang="en">ANGUS, THONGS AND PERFECT SNOGGING</title>
+    <desc lang="en">Eccentric but loveable 14 year-old Georgia Nicolson tries to overcome the trials and tribulations of growing up.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260818080000 +0000" stop="20260818094500 +0000" channel="HBOAsia.sg@SD">
+    <title lang="en">HOW TO TRAIN YOUR DRAGON 2</title>
+    <desc lang="en">It's been five years since Hiccup and Toothless successfully united dragons and vikings on the island of Berk.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260818094500 +0000" stop="20260818111500 +0000" channel="HBOAsia.sg@SD">
+    <title lang="en">THE ASTRONAUT</title>
+    <desc lang="en">After returning from her first space mission, astronaut Sam Walker fears that something extraterrestrial has followed her back to Earth.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260818111500 +0000" stop="20260818130000 +0000" channel="HBOAsia.sg@SD">
+    <title lang="en">GHOST TOWN</title>
+    <desc lang="en">Bertram Pincus dies for seven minutes and when he wakes up, has the ability to see ghosts. Stars Ricky Gervais and Greg Kinnear.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260818130000 +0000" stop="20260818151500 +0000" channel="HBOAsia.sg@SD">
+    <title lang="en">MICKEY 17</title>
+    <desc lang="en">Mickey Barnes is working for an employer who demands to die for a living.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260818151500 +0000" stop="20260818164500 +0000" channel="HBOAsia.sg@SD">
+    <title lang="en">FINAL DESTINATION 2</title>
+    <desc lang="en">A group of friends on holiday finds that no matter how hard they try, they can't cheat Death twice.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260815155700 +0000" stop="20260815160800 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">OVER THE GARDEN WALL S1</title>
+    <desc lang="en">While Wirt and Greg lay down to rest they're drawn into a dreamworld of cherubs flowers and clouds where Greg must battle the North Wind.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260815160800 +0000" stop="20260815161900 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">OVER THE GARDEN WALL S1</title>
+    <desc lang="en">The origin of Wirt and Greg's descent into the Unknown reveals itself.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260815161900 +0000" stop="20260815164000 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">OVER THE GARDEN WALL S1</title>
+    <desc lang="en">The Beast has come. The final chapter begins.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260815164000 +0000" stop="20260815165100 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">OVER THE GARDEN WALL S1</title>
+    <desc lang="en">Lost in the mysterious woods of the Unknown two brothers run into an old woodsman who warns them to beware the terrifying Beast that roams the forest.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260815165100 +0000" stop="20260815170200 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">OVER THE GARDEN WALL S1</title>
+    <desc lang="en">A bluebird named Beatrice offers to guide Wirt and Greg to Adelaide of the Pasture. Wirt refuses her help leaving them in trouble.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260815170200 +0000" stop="20260815171300 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">OVER THE GARDEN WALL S1</title>
+    <desc lang="en">Wirt, Greg, and Beatrice get all mixed up in the musical antics of a schoolhouse of animals, a lovelorn teacher, a grouchy old benefactor, and an escaped gorilla.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260815171300 +0000" stop="20260815172400 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">OVER THE GARDEN WALL S1</title>
+    <desc lang="en">Beatrice is left out in the rain while Wirt and Greg must ask for directions in a tavern where some surprising secrets are revealed about the Unknown.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260815172400 +0000" stop="20260815173500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">OVER THE GARDEN WALL S1</title>
+    <desc lang="en">Is millionaire Quincy Endicott's sprawling mansion haunted by a beautiful ghost or is the tea baron going mad? Greg and Fred the Horse are on the case!</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260815173500 +0000" stop="20260815174600 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">OVER THE GARDEN WALL S1</title>
+    <desc lang="en">We join Wirt and Greg on Frogland Ferry and Beatrice acting glum. Things turn emotional for Greg when he realizes that his own frog may be better off living with his amphibian compatriots.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260815174600 +0000" stop="20260815180500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">OVER THE GARDEN WALL S1</title>
+    <desc lang="en">After unexpected darkness tears the gang apart Wirt takes charge and meets Loma a young woman forced to do housework by an odious witch with a magic bell.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260815180500 +0000" stop="20260815184900 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">BEL-AIR S2</title>
+    <desc lang="en">Phil hosts the Banks family reunion, and Carlton works hard to impress his dad; Will considers accepting the Founder's Award nomination.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260815184900 +0000" stop="20260815193400 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">BEL-AIR S2</title>
+    <desc lang="en">External dilemmas throw Carlton and Will off track and prevent them from fully preparing for the Founder's Award.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260815193400 +0000" stop="20260815202500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">BEL-AIR S2</title>
+    <desc lang="en">Will discovers the truth about his teammate's absence, making him question his future; Carlton spirals out of control.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260815202500 +0000" stop="20260815205300 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">PITCH PERFECT: BUMPER IN BERLIN S1</title>
+    <desc lang="en">When Bumper Allen gets a chance to pursue his dreams of becoming a pop star, he abandons his life working as a security guard and moves to Berlin.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260815205300 +0000" stop="20260815211800 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">PITCH PERFECT: BUMPER IN BERLIN S1</title>
+    <desc lang="en">Bumper does damage control at Pretzel Fest; Pieter confronts an old flame; Heidi convinces Thea to work with Bumper.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260815211800 +0000" stop="20260815215500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">PITCH PERFECT: BUMPER IN BERLIN S1</title>
+    <desc lang="en">Bumper tries to reconcile with Heidi; Pieter books Bumper on a radio show; Thea pushes Heidi out of her comfort zone; Gisela takes the stage again.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260815215500 +0000" stop="20260815232500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">AN AMERICAN GIRL: CHRISSA STANDS STRONG</title>
+    <desc lang="en">When Chrissa moves to a new school in the middle of the year, she is greeted by the girls in her fourth-grade class with teasing and tricks.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260815232500 +0000" stop="20260816001500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S3</title>
+    <desc lang="en">When Lazlo goes missing from Camp Kidney, a nostalgic Raj and Clam recall life at camp before and after Lazlo arrived.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260816001500 +0000" stop="20260816002600 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S4</title>
+    <desc lang="en">A Valentine's Card written by Patsy causes havoc throughout Camp Kidney and makes someone very mad -- Patsy's Dad!</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260816002600 +0000" stop="20260816003700 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S4</title>
+    <desc lang="en">The Dungs have to earn their keep if they want to stay at Camp Kidney. Too bad they're not good at anything.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260816003700 +0000" stop="20260816004800 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S4</title>
+    <desc lang="en">Award-mania sweeps Camp Kidney and Lazlo just can't keep up.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260816004800 +0000" stop="20260816010000 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S4</title>
+    <desc lang="en">Samson finally finds someone who will listen to him, the only problem is it's a frozen caveman.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260816010000 +0000" stop="20260816011300 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S4</title>
+    <desc lang="en">Edward lays an egg and becomes a proud parent.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260816011300 +0000" stop="20260816012300 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S4</title>
+    <desc lang="en">Slinkman goes by the book -- the 'Squirrel Scout Manual Book' -- Oops!</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260816012300 +0000" stop="20260816013400 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S4</title>
+    <desc lang="en">Harold tries a little too hard to impress his new best friend, Raj.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260816013400 +0000" stop="20260816014500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S4</title>
+    <desc lang="en">Three aliens abduct Samson and make his life even more miserable than it already is.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260816014500 +0000" stop="20260816015700 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S4</title>
+    <desc lang="en">Three aliens hang out at the Squirrel Scout Camp and come between best friends Patsy and Nina.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260816015700 +0000" stop="20260816020900 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S4</title>
+    <desc lang="en">Lumpus angers a volcano when he won't give up his chicken pot pie.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260816020900 +0000" stop="20260816022000 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S4</title>
+    <desc lang="en">Nurse Leslie leaves camp when he doesn't get the proper 'respect' he deserves.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260816022000 +0000" stop="20260816023200 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S4</title>
+    <desc lang="en">Samson gets himself in big trouble with his little chemistry set.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260816023200 +0000" stop="20260816024300 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S4</title>
+    <desc lang="en">Lazlo gives a tour of Camp Kidney but there's only one problem: Edward thinks the tour stinks!</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260816024300 +0000" stop="20260816025400 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S4</title>
+    <desc lang="en">Lazlo experiences his first love, but it rips the Jellies apart when Raj tells Lazlo, 'I love her too dude!'</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260816025400 +0000" stop="20260816030600 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S4</title>
+    <desc lang="en">Lumpus does the impossible! He convinces Lazlo that Camp Kidney is actually terrible!</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260816030600 +0000" stop="20260816031800 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S4</title>
+    <desc lang="en">After getting laughed at by the other campers, Samson lies and tells them that he has a very famous and magical friend.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260816031800 +0000" stop="20260816033000 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S4</title>
+    <desc lang="en">Slinkman and Raj discover that there's something very creepy about Slinkman's coffee table -- BOO!</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260816033000 +0000" stop="20260816034100 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S4</title>
+    <desc lang="en">Edward attempts the unthinkable -- he tries to make a friend!</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260816034100 +0000" stop="20260816035300 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S4</title>
+    <desc lang="en">The campers daydream about 'Camp Dinkey,' believing that it is the perfect camp for them.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260816035300 +0000" stop="20260816040400 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S4</title>
+    <desc lang="en">Skip and Chip find a new 'Mom' -- and her name is Jane Doe!</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260816040400 +0000" stop="20260816043500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S4</title>
+    <desc lang="en">Thanks to Lumpus, Lazlo has to confront his biggest fear -- clowns!</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260816043500 +0000" stop="20260816064000 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">OBLIVION</title>
+    <desc lang="en">A veteran assigned to extract Earth's remaining resources begins to question his mission and his being.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260816064000 +0000" stop="20260816081500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">THE SPIDERWICK CHRONICLES</title>
+    <desc lang="en">Twin brothers and their sister stumble upon a mysterious book about the existence of faeries, only to be pulled into a fantastical world of magic and adventure.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260816081500 +0000" stop="20260816092500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">WE BARE BEARS: THE MOVIE</title>
+    <desc lang="en">When the bears' love of food trucks and viral videos gets out of hand, the menacing Agent Trout from the National Wildlife Control pledges to restore the 'natural order' by separating them forever.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260816092500 +0000" stop="20260816110000 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SMALLFOOT</title>
+    <desc lang="en">The Bigfoot legend is turned upside down when a bright young Yeti finds something he thought didn't exist—a human.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260816110000 +0000" stop="20260816122500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">TAD, THE LOST EXPLORER, AND THE SECRET OF KING MIDAS</title>
+    <desc lang="en">Tad travels to Las Vegas to see his friend Sara's latest discovery – a papyrus who turns everything he touches into gold.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260816122500 +0000" stop="20260816140500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">PLAYING WITH FIRE</title>
+    <desc lang="en">When an elite team of firefighters come to the rescue of three siblings, they quickly realise that no amount of training could prepare them for their most challenging job yet – babysitting.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260816140500 +0000" stop="20260816141500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S1</title>
+    <desc lang="en">Oscar's painting is unpopular so he goes on a journey of self-discovery.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260816141500 +0000" stop="20260816142500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S1</title>
+    <desc lang="en">The campers must battle ghosts of their own creation after their scary stories mysteriously come true.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260816142500 +0000" stop="20260816143500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S1</title>
+    <desc lang="en">Oscar receives a camcorder from his parents and sets out to prove to them the magic on the island is real.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260816143500 +0000" stop="20260816144500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S1</title>
+    <desc lang="en">When Pajamas starts to panic that Oscar will outgrow her, Oscar tries to help but things go awry.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260816144500 +0000" stop="20260816145500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S1</title>
+    <desc lang="en">A visit from Puddle the alien tests the limit of Oscar's hosting skills.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260816145500 +0000" stop="20260816150500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S1</title>
+    <desc lang="en">Oscar and Hedgehog discover a new structure on the island and become friends with its caretaker.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260816150500 +0000" stop="20260816151500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S1</title>
+    <desc lang="en">Oscar, hedgehog and the other campers are excited to take a trip to the non-magical town of Heartforde.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260816151500 +0000" stop="20260816152500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S1</title>
+    <desc lang="en">Oscar and Hedgehog must learn to exist without each other when they are put on different teams during a scavenger hunt.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260816152500 +0000" stop="20260816153500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S1</title>
+    <desc lang="en">Hedgehog gets a call during her radio show from someone who needs her help.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260816153500 +0000" stop="20260816154500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S1</title>
+    <desc lang="en">Ramona invites Hedgehog and Oscar to participate in a special holiday ritual.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260816154500 +0000" stop="20260816155500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S1</title>
+    <desc lang="en">Oscar, Max, and Hedgehog do a favor for Barb the elf in exchange for some chips.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260816155500 +0000" stop="20260816160500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S1</title>
+    <desc lang="en">Hedgehog and Oscar find themselves trapped in Susie's cabin and must escape undetected.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260816155500 +0000" stop="20260816160500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S1</title>
+    <desc lang="en">Hedgehog and Oscar find themselves trapped in Susie's cabin and must escape undetected.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260816160500 +0000" stop="20260816161500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S1</title>
+    <desc lang="en">The campers spend a rainy day at the library.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260816161500 +0000" stop="20260816162500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S1</title>
+    <desc lang="en">Hedgehog tries to get over a crush so she can regain her focus on magic.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260816162500 +0000" stop="20260816165500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S1</title>
+    <desc lang="en">Hedgehog wants to win the Golden Science Badge but runs into some unexpected competition.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260816165500 +0000" stop="20260816170500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S2</title>
+    <desc lang="en">Oscar pretends to lose his last baby tooth.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260816170500 +0000" stop="20260816171500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S2</title>
+    <desc lang="en">Oscar and Hedgehog help a monster get over her stage fright.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260816171500 +0000" stop="20260816172500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S2</title>
+    <desc lang="en">Lucy spends a day doing mysterious activities.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260816172500 +0000" stop="20260816173500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S2</title>
+    <desc lang="en">Oscar and Hedgehog try to make a special towel.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260816173500 +0000" stop="20260816174500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S2</title>
+    <desc lang="en">Susie calls an emergency meeting with the magical community.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260816174500 +0000" stop="20260816175500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S2</title>
+    <desc lang="en">Oscar and his dad rediscover their least favorite book.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260816175500 +0000" stop="20260816180500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S2</title>
+    <desc lang="en">Hedgehog's radio show gets a ratings boost.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260816180500 +0000" stop="20260816181500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S2</title>
+    <desc lang="en">Hedgehog has his first magic lesson with Susie.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260816181500 +0000" stop="20260816182500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S2</title>
+    <desc lang="en">Oscar and Hedgehog spend an unusual day with a unicorn.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260816182500 +0000" stop="20260816185000 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S2</title>
+    <desc lang="en">Oscar and Susie weather the spotted bear stretch together.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260816185000 +0000" stop="20260816193300 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">BEL-AIR S2</title>
+    <desc lang="en">Will confides in Phil about the shocking information he discovered regarding Doc and Zenith; Carlton struggles to keep up with all the lies he's entangled himself in.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260816193300 +0000" stop="20260816203000 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">BEL-AIR S2</title>
+    <desc lang="en">The Banks family comes together for the announcement of the Founder's Award; Will embraces moving forward in an unexpected way.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260816203000 +0000" stop="20260816205900 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">PITCH PERFECT: BUMPER IN BERLIN S1</title>
+    <desc lang="en">Bumper meets with a famous music video director; Pieter and Thea revisit their past; Heidi has to make a big decision; Gisela releases a new song.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260816205900 +0000" stop="20260816213000 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">PITCH PERFECT: BUMPER IN BERLIN S1</title>
+    <desc lang="en">Bumper's feeling for Heidi evolve; Pieter preps Bumper for Unity Day; Thea and Heidi come together to support Bumper after he receives bad news.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260816213000 +0000" stop="20260816231500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">WHAT A GIRL WANTS</title>
+    <desc lang="en">Free-spirited teenager Amanda Bynes brings a breath of fresh air to the stuffy world of her long-lost father, Colin Firth.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260816231500 +0000" stop="20260816234500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SESAME STREET S55</title>
+    <desc lang="en">Abby, Gabrielle, Rudy and Elmo are Letter Go Getters on a magical letter search.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260816234500 +0000" stop="20260817001500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SESAME STREET S55</title>
+    <desc lang="en">Rudy feels disappointed when he doesn't get to go to Fairy Day Camp with Abby.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260817001500 +0000" stop="20260817002700 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S4</title>
+    <desc lang="en">Slinkman and Raj discover that there's something very creepy about Slinkman's coffee table -- BOO!</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260817002700 +0000" stop="20260817003800 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S4</title>
+    <desc lang="en">Edward attempts the unthinkable -- he tries to make a friend!</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260817003800 +0000" stop="20260817005000 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S4</title>
+    <desc lang="en">The campers daydream about 'Camp Dinkey,' believing that it is the perfect camp for them.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260817005000 +0000" stop="20260817010100 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S4</title>
+    <desc lang="en">Skip and Chip find a new 'Mom' -- and her name is Jane Doe!</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260817010100 +0000" stop="20260817012000 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S4</title>
+    <desc lang="en">Thanks to Lumpus, Lazlo has to confront his biggest fear -- clowns!</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260817012000 +0000" stop="20260817015000 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">PITCH PERFECT: BUMPER IN BERLIN S1</title>
+    <desc lang="en">Bumper's feeling for Heidi evolve; Pieter preps Bumper for Unity Day; Thea and Heidi come together to support Bumper after he receives bad news.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260817015000 +0000" stop="20260817024500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">BEL-AIR S2</title>
+    <desc lang="en">The Banks family comes together for the announcement of the Founder's Award; Will embraces moving forward in an unexpected way.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260817024500 +0000" stop="20260817025500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S2</title>
+    <desc lang="en">Oscar and his dad rediscover their least favorite book.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260817025500 +0000" stop="20260817030500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S2</title>
+    <desc lang="en">Hedgehog's radio show gets a ratings boost.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260817030500 +0000" stop="20260817032500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S2</title>
+    <desc lang="en">Hedgehog has his first magic lesson with Susie.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260817032500 +0000" stop="20260817033600 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">OVER THE GARDEN WALL S1</title>
+    <desc lang="en">Is millionaire Quincy Endicott's sprawling mansion haunted by a beautiful ghost or is the tea baron going mad? Greg and Fred the Horse are on the case!</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260817033600 +0000" stop="20260817034700 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">OVER THE GARDEN WALL S1</title>
+    <desc lang="en">We join Wirt and Greg on Frogland Ferry and Beatrice acting glum. Things turn emotional for Greg when he realizes that his own frog may be better off living with his amphibian compatriots.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260817034700 +0000" stop="20260817040500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">OVER THE GARDEN WALL S1</title>
+    <desc lang="en">After unexpected darkness tears the gang apart Wirt takes charge and meets Loma a young woman forced to do housework by an odious witch with a magic bell.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260817040500 +0000" stop="20260817053000 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">TAD, THE LOST EXPLORER, AND THE SECRET OF KING MIDAS</title>
+    <desc lang="en">Tad travels to Las Vegas to see his friend Sara's latest discovery – a papyrus who turns everything he touches into gold.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260817053000 +0000" stop="20260817070500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">PLAYING WITH FIRE</title>
+    <desc lang="en">When an elite team of firefighters come to the rescue of three siblings, they quickly realise that no amount of training could prepare them for their most challenging job yet – babysitting.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260817070500 +0000" stop="20260817073000 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SESAME STREET S55</title>
+    <desc lang="en">Elmo, Abby, Chris and Leela help to teach some Chickens not to be afraid of thunderstorms.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260817073000 +0000" stop="20260817080000 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SESAME STREET S55</title>
+    <desc lang="en">Elmo learns how to win and lose gracefully while playing hot potato with Abby.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260817080000 +0000" stop="20260817081200 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S4</title>
+    <desc lang="en">A Camping trip to a swamp turns odd when a mysterious sleeping-bag creature joins the activities.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260817081200 +0000" stop="20260817082500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S4</title>
+    <desc lang="en">Edward accidentally breaks Lazlo's ankle, and as a punishment is forced to perform Lazlo's long list of good deeds.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260817082500 +0000" stop="20260817083700 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S5</title>
+    <desc lang="en">A task force to handle camp complaints is assembled among the campers by Slinkman. But can they separate their duties from the perks of their job?</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260817083700 +0000" stop="20260817084800 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S5</title>
+    <desc lang="en">The annual Acorn Flats 'Wig-out' leaves Almondine pondering the real meaning of 'pretty'.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260817084800 +0000" stop="20260817090500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S5</title>
+    <desc lang="en">A flapjack assault on Lumpus sends Clam into the hills as a wanted criminal, where the line is blurred between hero and outlaw.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260817090500 +0000" stop="20260817091500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S2</title>
+    <desc lang="en">Oscar and Hedgehog travel to frozen time to help Ramona with her time babies.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260817091500 +0000" stop="20260817092500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S2</title>
+    <desc lang="en">Hedgehog goes to great lengths to help Oscar return an overdue movie.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260817092500 +0000" stop="20260817093500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S2</title>
+    <desc lang="en">Oscar and Hedgehog spend the day helping the monsters prepare for Sweater Breakfast in the UMPS warehouse.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260817093500 +0000" stop="20260817094500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S2</title>
+    <desc lang="en">Hedgehog attends a spooky coven sleepover.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260817094500 +0000" stop="20260817100500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S2</title>
+    <desc lang="en">Hedgehog and Max try to locate a lost bathtub.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260817100500 +0000" stop="20260817101600 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">OVER THE GARDEN WALL S1</title>
+    <desc lang="en">While Wirt and Greg lay down to rest they're drawn into a dreamworld of cherubs flowers and clouds where Greg must battle the North Wind.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260817101600 +0000" stop="20260817102700 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">OVER THE GARDEN WALL S1</title>
+    <desc lang="en">The origin of Wirt and Greg's descent into the Unknown reveals itself.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260817102700 +0000" stop="20260817104500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">OVER THE GARDEN WALL S1</title>
+    <desc lang="en">The Beast has come. The final chapter begins.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260817104500 +0000" stop="20260817110000 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">OVER THE GARDEN WALL S1</title>
+    <desc lang="en">Lost in the mysterious woods of the Unknown two brothers run into an old woodsman who warns them to beware the terrifying Beast that roams the forest.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260817110000 +0000" stop="20260817123500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SCOOB!</title>
+    <desc lang="en">Scooby and the gang face their biggest, most challenging mystery ever, a plot to unleash the ghost dog Cerberus upon the world.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260817123500 +0000" stop="20260817140000 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SPACE JAM</title>
+    <desc lang="en">Michael Jordan and Bugs Bunny team up in an outer space basketball match to save kidnapped Looney Tunes characters.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260817140000 +0000" stop="20260817143000 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">PITCH PERFECT: BUMPER IN BERLIN S1</title>
+    <desc lang="en">Bumper's future in music is at stake; Thea and Pieter devise a plan to save Bumper's career; Bumper and Gisela take the stage at Unity Day.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260817143000 +0000" stop="20260817161500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">WHAT A GIRL WANTS</title>
+    <desc lang="en">Free-spirited teenager Amanda Bynes brings a breath of fresh air to the stuffy world of her long-lost father, Colin Firth.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260817143000 +0000" stop="20260817161500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">WHAT A GIRL WANTS</title>
+    <desc lang="en">Free-spirited teenager Amanda Bynes brings a breath of fresh air to the stuffy world of her long-lost father, Colin Firth.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260817161500 +0000" stop="20260817170500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">BEL-AIR S3</title>
+    <desc lang="en">Summertime in Bel-Air brings big changes for the Banks family, who prepare to host their annual Juneteenth festivities.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260817170500 +0000" stop="20260817171600 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">OVER THE GARDEN WALL S1</title>
+    <desc lang="en">While Wirt and Greg lay down to rest they're drawn into a dreamworld of cherubs flowers and clouds where Greg must battle the North Wind.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260817171600 +0000" stop="20260817172700 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">OVER THE GARDEN WALL S1</title>
+    <desc lang="en">The origin of Wirt and Greg's descent into the Unknown reveals itself.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260817172700 +0000" stop="20260817174500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">OVER THE GARDEN WALL S1</title>
+    <desc lang="en">The Beast has come. The final chapter begins.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260817174500 +0000" stop="20260817180000 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">OVER THE GARDEN WALL S1</title>
+    <desc lang="en">Lost in the mysterious woods of the Unknown two brothers run into an old woodsman who warns them to beware the terrifying Beast that roams the forest.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260817180000 +0000" stop="20260817182500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SESAME STREET S55</title>
+    <desc lang="en">Elmo, Abby, Chris and Leela help to teach some Chickens not to be afraid of thunderstorms.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260817182500 +0000" stop="20260817185500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SESAME STREET S55</title>
+    <desc lang="en">Elmo learns how to win and lose gracefully while playing hot potato with Abby.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260817185500 +0000" stop="20260817192500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">PITCH PERFECT: BUMPER IN BERLIN S1</title>
+    <desc lang="en">Bumper's future in music is at stake; Thea and Pieter devise a plan to save Bumper's career; Bumper and Gisela take the stage at Unity Day.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260817192500 +0000" stop="20260817201500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">BEL-AIR S3</title>
+    <desc lang="en">Summertime in Bel-Air brings big changes for the Banks family, who prepare to host their annual Juneteenth festivities.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260817201500 +0000" stop="20260817202700 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S4</title>
+    <desc lang="en">A Camping trip to a swamp turns odd when a mysterious sleeping-bag creature joins the activities.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260817202700 +0000" stop="20260817204000 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S4</title>
+    <desc lang="en">Edward accidentally breaks Lazlo's ankle, and as a punishment is forced to perform Lazlo's long list of good deeds.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260817204000 +0000" stop="20260817205200 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S5</title>
+    <desc lang="en">A task force to handle camp complaints is assembled among the campers by Slinkman. But can they separate their duties from the perks of their job?</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260817205200 +0000" stop="20260817210300 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S5</title>
+    <desc lang="en">The annual Acorn Flats 'Wig-out' leaves Almondine pondering the real meaning of 'pretty'.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260817210300 +0000" stop="20260817212000 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S5</title>
+    <desc lang="en">A flapjack assault on Lumpus sends Clam into the hills as a wanted criminal, where the line is blurred between hero and outlaw.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260817212000 +0000" stop="20260817213000 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S2</title>
+    <desc lang="en">Oscar and Hedgehog travel to frozen time to help Ramona with her time babies.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260817213000 +0000" stop="20260817214000 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S2</title>
+    <desc lang="en">Hedgehog goes to great lengths to help Oscar return an overdue movie.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260817214000 +0000" stop="20260817215000 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S2</title>
+    <desc lang="en">Oscar and Hedgehog spend the day helping the monsters prepare for Sweater Breakfast in the UMPS warehouse.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260817215000 +0000" stop="20260817220000 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S2</title>
+    <desc lang="en">Hedgehog attends a spooky coven sleepover.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260817220000 +0000" stop="20260817222000 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S2</title>
+    <desc lang="en">Hedgehog and Max try to locate a lost bathtub.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260817222000 +0000" stop="20260817224700 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CRASHBOX S1</title>
+    <desc lang="en">An outrageously insane new game show of puzzles and brainteasers for kids to play on television.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260817224700 +0000" stop="20260817232000 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CRASHBOX S1</title>
+    <desc lang="en">An outrageously insane new game show of puzzles and brainteasers for kids to play on television.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260817232000 +0000" stop="20260817234500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SESAME STREET S55</title>
+    <desc lang="en">Elmo, Abby, Chris and Leela help to teach some Chickens not to be afraid of thunderstorms.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260817234500 +0000" stop="20260818001400 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SESAME STREET S55</title>
+    <desc lang="en">Elmo learns how to win and lose gracefully while playing hot potato with Abby.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260818001400 +0000" stop="20260818002600 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S4</title>
+    <desc lang="en">A Camping trip to a swamp turns odd when a mysterious sleeping-bag creature joins the activities.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260818002600 +0000" stop="20260818004000 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S4</title>
+    <desc lang="en">Edward accidentally breaks Lazlo's ankle, and as a punishment is forced to perform Lazlo's long list of good deeds.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260818004000 +0000" stop="20260818005200 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S5</title>
+    <desc lang="en">A task force to handle camp complaints is assembled among the campers by Slinkman. But can they separate their duties from the perks of their job?</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260818005200 +0000" stop="20260818011000 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S5</title>
+    <desc lang="en">The annual Acorn Flats 'Wig-out' leaves Almondine pondering the real meaning of 'pretty'.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260818011000 +0000" stop="20260818014000 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">PITCH PERFECT: BUMPER IN BERLIN S1</title>
+    <desc lang="en">Bumper's future in music is at stake; Thea and Pieter devise a plan to save Bumper's career; Bumper and Gisela take the stage at Unity Day.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260818014000 +0000" stop="20260818023500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">BEL-AIR S3</title>
+    <desc lang="en">Summertime in Bel-Air brings big changes for the Banks family, who prepare to host their annual Juneteenth festivities.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260818023500 +0000" stop="20260818024500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S2</title>
+    <desc lang="en">Oscar and Hedgehog travel to frozen time to help Ramona with her time babies.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260818024500 +0000" stop="20260818025500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S2</title>
+    <desc lang="en">Hedgehog goes to great lengths to help Oscar return an overdue movie.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260818025500 +0000" stop="20260818030500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S2</title>
+    <desc lang="en">Oscar and Hedgehog spend the day helping the monsters prepare for Sweater Breakfast in the UMPS warehouse.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260818030500 +0000" stop="20260818032500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S2</title>
+    <desc lang="en">Hedgehog attends a spooky coven sleepover.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260818032500 +0000" stop="20260818033600 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">OVER THE GARDEN WALL S1</title>
+    <desc lang="en">While Wirt and Greg lay down to rest they're drawn into a dreamworld of cherubs flowers and clouds where Greg must battle the North Wind.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260818033600 +0000" stop="20260818034700 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">OVER THE GARDEN WALL S1</title>
+    <desc lang="en">The origin of Wirt and Greg's descent into the Unknown reveals itself.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260818034700 +0000" stop="20260818040500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">OVER THE GARDEN WALL S1</title>
+    <desc lang="en">The Beast has come. The final chapter begins.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260818040500 +0000" stop="20260818054000 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SCOOB!</title>
+    <desc lang="en">Scooby and the gang face their biggest, most challenging mystery ever, a plot to unleash the ghost dog Cerberus upon the world.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260818054000 +0000" stop="20260818070500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SPACE JAM</title>
+    <desc lang="en">Michael Jordan and Bugs Bunny team up in an outer space basketball match to save kidnapped Looney Tunes characters.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260818070500 +0000" stop="20260818073500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SESAME STREET S55</title>
+    <desc lang="en">Elmo, Abby, and Gabrielle play garden explorers to find her Gabrielle's lost charm bracelet.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260818073500 +0000" stop="20260818080500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SESAME STREET S55</title>
+    <desc lang="en">Elmo and Rudy are having a sleepover and making a pillow fort—but they don't have a pillow big enough for the roof.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260818080500 +0000" stop="20260818081600 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S5</title>
+    <desc lang="en">Where is the dung beetle's favorite penny? Chip and Skip spend a fortune to find it -- destroying camp in the process.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260818081600 +0000" stop="20260818082800 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S5</title>
+    <desc lang="en">A newly acquired collection of labor-saving devices leaves Raj atrophied and, ultimately, revert him back to a baby.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260818082800 +0000" stop="20260818083900 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S5</title>
+    <desc lang="en">After Samson's 'bad luck' mysteriously gets Transferred to Lazlo, Lazlo has to appeal to the 'Scoutmaster in the Sky' for divine intervention.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260818083900 +0000" stop="20260818085000 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S5</title>
+    <desc lang="en">Clam agrees to pose as Squirrel Scout Nina's brother in order for Nina to find here place among the sisterhood.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260818085000 +0000" stop="20260818091000 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">CAMP LAZLO S5</title>
+    <desc lang="en">A jellyfish attached to Samson's head sends Samson into an electrically charged fit of craziness where the sky is the limit.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260818091000 +0000" stop="20260818092000 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S2</title>
+    <desc lang="en">Shark helps Oscar visit his past to learn something interesting about himself.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260818092000 +0000" stop="20260818093000 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S2</title>
+    <desc lang="en">Oscar, Hedgehog, Lucy and Saxophone have an adventure in the sacred Yeti catacombs.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260818093000 +0000" stop="20260818094500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S2</title>
+    <desc lang="en">Susie attempts to discover Betsy's full moon secret.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260818094500 +0000" stop="20260818095500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S3</title>
+    <desc lang="en">When Susie learns magic is beginning to disappear from New York, she tries to lead all the magical creatures to safety.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260818095500 +0000" stop="20260818101000 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SUMMER CAMP ISLAND S3</title>
+    <desc lang="en">Susie, Ramona, and Barb team up in frozen time to see what's threatening magic.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260818101000 +0000" stop="20260818102100 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">OVER THE GARDEN WALL S1</title>
+    <desc lang="en">A bluebird named Beatrice offers to guide Wirt and Greg to Adelaide of the Pasture. Wirt refuses her help leaving them in trouble.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260818102100 +0000" stop="20260818103200 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">OVER THE GARDEN WALL S1</title>
+    <desc lang="en">Wirt, Greg, and Beatrice get all mixed up in the musical antics of a schoolhouse of animals, a lovelorn teacher, a grouchy old benefactor, and an escaped gorilla.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260818103200 +0000" stop="20260818104300 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">OVER THE GARDEN WALL S1</title>
+    <desc lang="en">Beatrice is left out in the rain while Wirt and Greg must ask for directions in a tavern where some surprising secrets are revealed about the Unknown.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260818104300 +0000" stop="20260818110000 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">OVER THE GARDEN WALL S1</title>
+    <desc lang="en">Is millionaire Quincy Endicott's sprawling mansion haunted by a beautiful ghost or is the tea baron going mad? Greg and Fred the Horse are on the case!</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260818110000 +0000" stop="20260818125000 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">SONIC THE HEDGEHOG 3</title>
+    <desc lang="en">Sonic, Knuckles, and Tails are back for their most epic adventure yet. The team reunite to face a new formidable foe, Shadow.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260818125000 +0000" stop="20260818142000 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">THE SECRET LIFE OF PETS</title>
+    <desc lang="en">When a pampered terrier and his owner's newly adopted pet get lost in New York City, they must put aside their differences to survive the journey back home.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260818142000 +0000" stop="20260818160500 +0000" channel="HBOFamilyAsia.sg@SD">
+    <title lang="en">A CHRISTMAS STORY CHRISTMAS</title>
+    <desc lang="en">Sequel to annual holiday favorite, “A Christmas Story.” Ralphie is all grown up and must deal with Christmas and all that comes with it…as a dad.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260815150000 +0000" stop="20260815164000 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">THE PHOENICIAN SCHEME</title>
+    <desc lang="en">This dark comedy follows a father and daughter as they try and run their family business amongst a sea of morally grey choices.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260815164000 +0000" stop="20260815181000 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">PARANORMAL ACTIVITY 3</title>
+    <desc lang="en">In 1988, young sisters Katie and Kristi befriend an invisible entity who resides in their home.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260815181000 +0000" stop="20260815193000 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">THE FINAL DESTINATION</title>
+    <desc lang="en">After a teen's premonition of a deadly race-car crash helps saves the lives of his peers, Death sets out to collect those who evaded their end.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260815193000 +0000" stop="20260815210500 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">SEPTEMBER 5</title>
+    <desc lang="en">Based on true events at the 1972 Olympics, a hostage crisis forces TV exec Arledge to push an untested sports producer to report live news.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260815210500 +0000" stop="20260815231500 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">PACIFIC RIM</title>
+    <desc lang="en">A sci-fi action epic about a ragtag band of humans coming together in the year 2020 to fight legions of monstrous creatures rising from the sea.</desc>
+    <category lang="en">Sci-Fi</category>
+  </programme>
+  <programme start="20260815231500 +0000" stop="20260816011000 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">OSLO</title>
+    <desc lang="en">Adapted from the Tony Award-winning play, this film follows the unlikely story of the 1993 Oslo Peace Accords.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260816011000 +0000" stop="20260816025000 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">HIGH ROLLERS</title>
+    <desc lang="en">Mason's crew is forced to pull off a dangerous heist for a powerful criminal, with the FBI chasing them and a family feud threatening their lives.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260816025000 +0000" stop="20260816042000 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">GRAVITY</title>
+    <desc lang="en">A brilliant medical engineer and a veteran astronaut go on a seemingly routine spacewalk that ends up in a huge disaster.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260816042000 +0000" stop="20260816062000 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">SUPERMAN III</title>
+    <desc lang="en">In this third instalment of this series, Superman battles a supercomputer and the evil businessman exploiting it.</desc>
+    <category lang="en">Sci-Fi</category>
+  </programme>
+  <programme start="20260816062000 +0000" stop="20260816075000 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">THE SPONGEBOB MOVIE: SEARCH FOR SQUAREPANTS</title>
+    <desc lang="en">THE SPONGEBOB MOVIE: SEARCH FOR SQUAREPANTS</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260816075000 +0000" stop="20260816081500 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">HOLLYWOOD ON SET S1</title>
+    <desc lang="en">Each week Hollywood On Set goes behind-the-scenes on three major movies in production, featuring action footage and interviews with filmmakers.</desc>
+    <category lang="en">Specials</category>
+  </programme>
+  <programme start="20260816081500 +0000" stop="20260816095000 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">KUNG FU PANDA 3</title>
+    <desc lang="en">Po must face two hugely epic, but different threats: one supernatural and the other a little closer to home.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260816095000 +0000" stop="20260816112000 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">SMURFS</title>
+    <desc lang="en">Smurfette and the Smurfs team up with new friends to save Papa Smurf after he's kidnapped and realize their destiny is to protect the universe.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260816112000 +0000" stop="20260816125000 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">GRAVITY</title>
+    <desc lang="en">A brilliant medical engineer and a veteran astronaut go on a seemingly routine spacewalk that ends up in a huge disaster.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260816125000 +0000" stop="20260816150000 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">PACIFIC RIM</title>
+    <desc lang="en">A sci-fi action epic about a ragtag band of humans coming together in the year 2020 to fight legions of monstrous creatures rising from the sea.</desc>
+    <category lang="en">Sci-Fi</category>
+  </programme>
+  <programme start="20260816150000 +0000" stop="20260816163000 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">THE SPONGEBOB MOVIE: SEARCH FOR SQUAREPANTS</title>
+    <desc lang="en">THE SPONGEBOB MOVIE: SEARCH FOR SQUAREPANTS</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260816150000 +0000" stop="20260816163000 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">THE SPONGEBOB MOVIE: SEARCH FOR SQUAREPANTS</title>
+    <desc lang="en">THE SPONGEBOB MOVIE: SEARCH FOR SQUAREPANTS</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260816163000 +0000" stop="20260816182000 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">MORTAL KOMBAT</title>
+    <desc lang="en">After the slaughter of his family by stone-cold mercenary, Hanzo Hasashi is exiled to the Netherrealm, where he's given a chance to avenge his family – and is resurrected as Scorpion, a lost soul bent on revenge.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260816182000 +0000" stop="20260816200500 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">HIGH ROLLERS</title>
+    <desc lang="en">Mason's crew is forced to pull off a dangerous heist for a powerful criminal, with the FBI chasing them and a family feud threatening their lives.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260816200500 +0000" stop="20260816215000 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">THE PHOENICIAN SCHEME</title>
+    <desc lang="en">This dark comedy follows a father and daughter as they try and run their family business amongst a sea of morally grey choices.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260816215000 +0000" stop="20260816235500 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">SUPERMAN III</title>
+    <desc lang="en">In this third instalment of this series, Superman battles a supercomputer and the evil businessman exploiting it.</desc>
+    <category lang="en">Sci-Fi</category>
+  </programme>
+  <programme start="20260816235500 +0000" stop="20260817013000 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">SEPTEMBER 5</title>
+    <desc lang="en">Based on true events at the 1972 Olympics, a hostage crisis forces TV exec Arledge to push an untested sports producer to report live news.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260817013000 +0000" stop="20260817033000 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">OSLO</title>
+    <desc lang="en">Adapted from the Tony Award-winning play, this film follows the unlikely story of the 1993 Oslo Peace Accords.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260817033000 +0000" stop="20260817054000 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">PACIFIC RIM</title>
+    <desc lang="en">A sci-fi action epic about a ragtag band of humans coming together in the year 2020 to fight legions of monstrous creatures rising from the sea.</desc>
+    <category lang="en">Sci-Fi</category>
+  </programme>
+  <programme start="20260817054000 +0000" stop="20260817061000 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">HOLLYWOOD ON SET S1</title>
+    <desc lang="en">Each week Hollywood On Set goes behind-the-scenes on three major movies in production, featuring action footage and interviews with filmmakers.</desc>
+    <category lang="en">Specials</category>
+  </programme>
+  <programme start="20260817061000 +0000" stop="20260817074000 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">SMURFS</title>
+    <desc lang="en">Smurfette and the Smurfs team up with new friends to save Papa Smurf after he's kidnapped and realize their destiny is to protect the universe.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260817074000 +0000" stop="20260817091000 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">THE SPONGEBOB MOVIE: SEARCH FOR SQUAREPANTS</title>
+    <desc lang="en">THE SPONGEBOB MOVIE: SEARCH FOR SQUAREPANTS</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260817091000 +0000" stop="20260817111500 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">SUPERMAN III</title>
+    <desc lang="en">In this third instalment of this series, Superman battles a supercomputer and the evil businessman exploiting it.</desc>
+    <category lang="en">Sci-Fi</category>
+  </programme>
+  <programme start="20260817111500 +0000" stop="20260817131500 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">OSLO</title>
+    <desc lang="en">Adapted from the Tony Award-winning play, this film follows the unlikely story of the 1993 Oslo Peace Accords.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260817131500 +0000" stop="20260817150000 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">HIGH ROLLERS</title>
+    <desc lang="en">Mason's crew is forced to pull off a dangerous heist for a powerful criminal, with the FBI chasing them and a family feud threatening their lives.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260817150000 +0000" stop="20260817163500 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">GRAVITY</title>
+    <desc lang="en">A brilliant medical engineer and a veteran astronaut go on a seemingly routine spacewalk that ends up in a huge disaster.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260817150000 +0000" stop="20260817163500 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">GRAVITY</title>
+    <desc lang="en">A brilliant medical engineer and a veteran astronaut go on a seemingly routine spacewalk that ends up in a huge disaster.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260817163500 +0000" stop="20260817175500 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">THE FINAL DESTINATION</title>
+    <desc lang="en">After a teen's premonition of a deadly race-car crash helps saves the lives of his peers, Death sets out to collect those who evaded their end.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260817175500 +0000" stop="20260817194000 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">THE PHOENICIAN SCHEME</title>
+    <desc lang="en">This dark comedy follows a father and daughter as they try and run their family business amongst a sea of morally grey choices.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260817194000 +0000" stop="20260817213000 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">MORTAL KOMBAT</title>
+    <desc lang="en">After the slaughter of his family by stone-cold mercenary, Hanzo Hasashi is exiled to the Netherrealm, where he's given a chance to avenge his family – and is resurrected as Scorpion, a lost soul bent on revenge.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260817213000 +0000" stop="20260817230000 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">SMURFS</title>
+    <desc lang="en">Smurfette and the Smurfs team up with new friends to save Papa Smurf after he's kidnapped and realize their destiny is to protect the universe.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260817230000 +0000" stop="20260818011000 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">PACIFIC RIM</title>
+    <desc lang="en">A sci-fi action epic about a ragtag band of humans coming together in the year 2020 to fight legions of monstrous creatures rising from the sea.</desc>
+    <category lang="en">Sci-Fi</category>
+  </programme>
+  <programme start="20260818011000 +0000" stop="20260818023500 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">THE SPONGEBOB MOVIE: SEARCH FOR SQUAREPANTS</title>
+    <desc lang="en">THE SPONGEBOB MOVIE: SEARCH FOR SQUAREPANTS</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260818023500 +0000" stop="20260818043500 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">SUPERMAN III</title>
+    <desc lang="en">In this third instalment of this series, Superman battles a supercomputer and the evil businessman exploiting it.</desc>
+    <category lang="en">Sci-Fi</category>
+  </programme>
+  <programme start="20260818043500 +0000" stop="20260818063000 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">OSLO</title>
+    <desc lang="en">Adapted from the Tony Award-winning play, this film follows the unlikely story of the 1993 Oslo Peace Accords.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260818063000 +0000" stop="20260818080000 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">GRAVITY</title>
+    <desc lang="en">A brilliant medical engineer and a veteran astronaut go on a seemingly routine spacewalk that ends up in a huge disaster.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260818080000 +0000" stop="20260818093000 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">SMURFS</title>
+    <desc lang="en">Smurfette and the Smurfs team up with new friends to save Papa Smurf after he's kidnapped and realize their destiny is to protect the universe.</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260818093000 +0000" stop="20260818100000 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">HOLLYWOOD ON SET S1</title>
+    <desc lang="en">Each week Hollywood On Set goes behind-the-scenes on three major movies in production, featuring action footage and interviews with filmmakers.</desc>
+    <category lang="en">Specials</category>
+  </programme>
+  <programme start="20260818100000 +0000" stop="20260818113000 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">THE SPONGEBOB MOVIE: SEARCH FOR SQUAREPANTS</title>
+    <desc lang="en">THE SPONGEBOB MOVIE: SEARCH FOR SQUAREPANTS</desc>
+    <category lang="en">Kids-Family</category>
+  </programme>
+  <programme start="20260818113000 +0000" stop="20260818131500 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">HIGH ROLLERS</title>
+    <desc lang="en">Mason's crew is forced to pull off a dangerous heist for a powerful criminal, with the FBI chasing them and a family feud threatening their lives.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260818131500 +0000" stop="20260818150000 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">THE PHOENICIAN SCHEME</title>
+    <desc lang="en">This dark comedy follows a father and daughter as they try and run their family business amongst a sea of morally grey choices.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260818150000 +0000" stop="20260818163500 +0000" channel="HBOHitsAsia.sg@SD">
+    <title lang="en">PARANORMAL ACTIVITY 3</title>
+    <desc lang="en">In 1988, young sisters Katie and Kristi befriend an invisible entity who resides in their home.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260815153000 +0000" stop="20260815174000 +0000" channel="HBOSignatureAsia.sg@SD">
+    <title lang="en">HAMNET</title>
+    <desc lang="en">HAMNET tells the powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260815174000 +0000" stop="20260815193000 +0000" channel="HBOSignatureAsia.sg@SD">
+    <title lang="en">SALEM'S LOT</title>
+    <desc lang="en">A vampire terrifies the inhabitants of the small New England town of Jerusalem's Lot.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260815193000 +0000" stop="20260815213000 +0000" channel="HBOSignatureAsia.sg@SD">
+    <title lang="en">CHOCOLAT</title>
+    <desc lang="en">A woman opens a chocolate shop in a French town and creates confections that inspire the straitlaced villagers to abandon themselves to temptation and happiness.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260815213000 +0000" stop="20260815231000 +0000" channel="HBOSignatureAsia.sg@SD">
+    <title lang="en">ATOMIC HOMEFRONT</title>
+    <desc lang="en">Probing the devastating impact of the illegal dumping of radioactive waste in North St. Louis communities, the moms-turned-advocates fight for answers.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260815231000 +0000" stop="20260816013500 +0000" channel="HBOSignatureAsia.sg@SD">
+    <title lang="en">BLOOD DIAMOND</title>
+    <desc lang="en">A smuggler, fisherman and reporter team up in search of a priceless pink diamond, a lost son and the dark story behind the diamond trade.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260816013500 +0000" stop="20260816025500 +0000" channel="HBOSignatureAsia.sg@SD">
+    <title lang="en">TAKING CHANCE</title>
+    <desc lang="en">Kevin Bacon stars in this profoundly moving HBO Original Movie that looks at the military rituals for honoring its war dead.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260816025500 +0000" stop="20260816042500 +0000" channel="HBOSignatureAsia.sg@SD">
+    <title lang="en">FOUR CHRISTMASES</title>
+    <desc lang="en">When their exotic vacation flight is cancelled, a couple has no choice but to spend Christmas with each of their divorced parents and dysfunctional families.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260816042500 +0000" stop="20260816055000 +0000" channel="HBOSignatureAsia.sg@SD">
+    <title lang="en">WISHFUL DRINKING</title>
+    <desc lang="en">Carrie Fisher tells her raucous, raw and intoxicating true story in this documentary, recounting her peaks and valleys with unfailing candour and biting humour.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260816055000 +0000" stop="20260816080000 +0000" channel="HBOSignatureAsia.sg@SD">
+    <title lang="en">HAMNET</title>
+    <desc lang="en">HAMNET tells the powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260816080000 +0000" stop="20260816101000 +0000" channel="HBOSignatureAsia.sg@SD">
+    <title lang="en">ANEMONE</title>
+    <desc lang="en">Anemone explores the complex and profound ties that exist between brothers, fathers, and sons.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260816101000 +0000" stop="20260816120000 +0000" channel="HBOSignatureAsia.sg@SD">
+    <title lang="en">VERY RALPH</title>
+    <desc lang="en">The first documentary portrait of fashion icon Ralph Lauren, reveals the man behind the icon and the creation of one of the most successful brands in fashion history.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260816120000 +0000" stop="20260816140000 +0000" channel="HBOSignatureAsia.sg@SD">
+    <title lang="en">CHOCOLAT</title>
+    <desc lang="en">A woman opens a chocolate shop in a French town and creates confections that inspire the straitlaced villagers to abandon themselves to temptation and happiness.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260816140000 +0000" stop="20260816144500 +0000" channel="HBOSignatureAsia.sg@SD">
+    <title lang="en">LAW &amp; ORDER ('21) S1</title>
+    <desc lang="en">Bernard and Cosgrove investigate the disappearance of a social media star whose case takes the Internet by storm.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260816144500 +0000" stop="20260816163000 +0000" channel="HBOSignatureAsia.sg@SD">
+    <title lang="en">THE WAY BACK</title>
+    <desc lang="en">Oscar® winner Ben Affleck is Jack Cunningham, a man who faces his inner demons by agreeing to coach a high school basketball team.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260816144500 +0000" stop="20260816163000 +0000" channel="HBOSignatureAsia.sg@SD">
+    <title lang="en">THE WAY BACK</title>
+    <desc lang="en">Oscar® winner Ben Affleck is Jack Cunningham, a man who faces his inner demons by agreeing to coach a high school basketball team.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260816163000 +0000" stop="20260816181000 +0000" channel="HBOSignatureAsia.sg@SD">
+    <title lang="en">ATOMIC HOMEFRONT</title>
+    <desc lang="en">Probing the devastating impact of the illegal dumping of radioactive waste in North St. Louis communities, the moms-turned-advocates fight for answers.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260816181000 +0000" stop="20260816201500 +0000" channel="HBOSignatureAsia.sg@SD">
+    <title lang="en">AMERICAN BEAUTY</title>
+    <desc lang="en">A film about the dark side of an American family and the price of beauty in a culture obsessed with outward appearances.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260816201500 +0000" stop="20260816220500 +0000" channel="HBOSignatureAsia.sg@SD">
+    <title lang="en">BRESLIN AND HAMILL: DEADLINE ARTISTS</title>
+    <desc lang="en">The documentary brings New York columnists Jimmy Breslin and Pete Hamill's courageous writing to life, celebrating the acclaimed journalists and the city they loved.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260816220500 +0000" stop="20260816235500 +0000" channel="HBOSignatureAsia.sg@SD">
+    <title lang="en">JOHN MCCAIN: FOR WHOM THE BELL TOLLS</title>
+    <desc lang="en">Explore the life of Sen. John McCain in this illuminating profile of one of the most influential forces in modern American politics.</desc>
+    <category lang="en">Factual-Documentary</category>
+  </programme>
+  <programme start="20260816235500 +0000" stop="20260817013000 +0000" channel="HBOSignatureAsia.sg@SD">
+    <title lang="en">FOUR CHRISTMASES</title>
+    <desc lang="en">When their exotic vacation flight is cancelled, a couple has no choice but to spend Christmas with each of their divorced parents and dysfunctional families.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260817013000 +0000" stop="20260817025500 +0000" channel="HBOSignatureAsia.sg@SD">
+    <title lang="en">THE TRUTH ABOUT KILLER ROBOTS</title>
+    <desc lang="en">Exploring the provocative viewpoints of engineers, journalists and philosophers, this documentary examines more subtle but pervasive ways that robots affect humanity.</desc>
+    <category lang="en">Factual-Documentary</category>
+  </programme>
+  <programme start="20260817025500 +0000" stop="20260817050500 +0000" channel="HBOSignatureAsia.sg@SD">
+    <title lang="en">ANEMONE</title>
+    <desc lang="en">Anemone explores the complex and profound ties that exist between brothers, fathers, and sons.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260817050500 +0000" stop="20260817071500 +0000" channel="HBOSignatureAsia.sg@SD">
+    <title lang="en">JANE FONDA IN FIVE ACTS</title>
+    <desc lang="en">An intimate look at Oscar®-winner Jane Fonda's journey, which was marked by controversy, tragedy and transformation.</desc>
+    <category lang="en">Factual-Documentary</category>
+  </programme>
+  <programme start="20260817071500 +0000" stop="20260817091000 +0000" channel="HBOSignatureAsia.sg@SD">
+    <title lang="en">VERY RALPH</title>
+    <desc lang="en">The first documentary portrait of fashion icon Ralph Lauren, reveals the man behind the icon and the creation of one of the most successful brands in fashion history.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260817091000 +0000" stop="20260817110000 +0000" channel="HBOSignatureAsia.sg@SD">
+    <title lang="en">THE WAY BACK</title>
+    <desc lang="en">Oscar® winner Ben Affleck is Jack Cunningham, a man who faces his inner demons by agreeing to coach a high school basketball team.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260817110000 +0000" stop="20260817121000 +0000" channel="HBOSignatureAsia.sg@SD">
+    <title lang="en">IT'S A HARD TRUTH, AIN'T IT</title>
+    <desc lang="en">Filmed at Indiana's Pendleton Correctional Facility and co-directed by 13 incarcerated men, the documentary follows them as they reflect on their lives and the consequences of their crimes.</desc>
+    <category lang="en">Factual-Documentary</category>
+  </programme>
+  <programme start="20260817121000 +0000" stop="20260817140000 +0000" channel="HBOSignatureAsia.sg@SD">
+    <title lang="en">WANTED</title>
+    <desc lang="en">A clerk with no future finds his world tossed upside down after he joins a secret group of assassins when he discovers he has special powers.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260817140000 +0000" stop="20260817160500 +0000" channel="HBOSignatureAsia.sg@SD">
+    <title lang="en">AMERICAN BEAUTY</title>
+    <desc lang="en">A film about the dark side of an American family and the price of beauty in a culture obsessed with outward appearances.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260817140000 +0000" stop="20260817160500 +0000" channel="HBOSignatureAsia.sg@SD">
+    <title lang="en">AMERICAN BEAUTY</title>
+    <desc lang="en">A film about the dark side of an American family and the price of beauty in a culture obsessed with outward appearances.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260817160500 +0000" stop="20260817171000 +0000" channel="HBOSignatureAsia.sg@SD">
+    <title lang="en">SAVIOR COMPLEX S1</title>
+    <desc lang="en">Renee is back in the United States facing a lawsuit brought by a Ugandan human rights attorney. The social media movement against her escalates.</desc>
+    <category lang="en">Factual-Documentary</category>
+  </programme>
+  <programme start="20260817171000 +0000" stop="20260817190000 +0000" channel="HBOSignatureAsia.sg@SD">
+    <title lang="en">CIVIL WAR</title>
+    <desc lang="en">In a dystopian future America, a team of military-embedded journalists races against time to reach Washington, D.C., before rebel factions descend upon the White House.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
+  <programme start="20260817190000 +0000" stop="20260817200000 +0000" channel="HBOSignatureAsia.sg@SD">
+    <title lang="en">EUPHORIA S1</title>
+    <desc lang="en">Rue, trying to get clean for Jules, chaperones Gia at the carnival; Jules encounters Cal with his family; Cassie and Maddy decide to do molly together.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260817200000 +0000" stop="20260817220000 +0000" channel="HBOSignatureAsia.sg@SD">
+    <title lang="en">THE ALABAMA SOLUTION</title>
+    <desc lang="en">Inside one of the nation's deadliest prison systems, incarcerated men defy the odds to expose a cover-up.</desc>
+    <category lang="en">Factual-Documentary</category>
+  </programme>
+  <programme start="20260817220000 +0000" stop="20260817231500 +0000" channel="HBOSignatureAsia.sg@SD">
+    <title lang="en">IT'S A HARD TRUTH, AIN'T IT</title>
+    <desc lang="en">Filmed at Indiana's Pendleton Correctional Facility and co-directed by 13 incarcerated men, the documentary follows them as they reflect on their lives and the consequences of their crimes.</desc>
+    <category lang="en">Factual-Documentary</category>
+  </programme>
+  <programme start="20260817231500 +0000" stop="20260818004000 +0000" channel="HBOSignatureAsia.sg@SD">
+    <title lang="en">THE TRUTH ABOUT KILLER ROBOTS</title>
+    <desc lang="en">Exploring the provocative viewpoints of engineers, journalists and philosophers, this documentary examines more subtle but pervasive ways that robots affect humanity.</desc>
+    <category lang="en">Factual-Documentary</category>
+  </programme>
+  <programme start="20260818004000 +0000" stop="20260818023000 +0000" channel="HBOSignatureAsia.sg@SD">
+    <title lang="en">THE RHYTHM SECTION</title>
+    <desc lang="en">When an ordinary woman on a path of self-destruction discovers that the plane crash that killed her family was not an accident, she enters a dark, complex world to seek revenge and find her own redemption.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260818023000 +0000" stop="20260818042000 +0000" channel="HBOSignatureAsia.sg@SD">
+    <title lang="en">WANTED</title>
+    <desc lang="en">A clerk with no future finds his world tossed upside down after he joins a secret group of assassins when he discovers he has special powers.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260818042000 +0000" stop="20260818053000 +0000" channel="HBOSignatureAsia.sg@SD">
+    <title lang="en">BECOMING MIKE NICHOLS</title>
+    <desc lang="en">The renowned director opens up to his close friend and colleague, Jack O'Brien, in his historic, final filmed appearance.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260818053000 +0000" stop="20260818073500 +0000" channel="HBOSignatureAsia.sg@SD">
+    <title lang="en">AS YOU LIKE IT</title>
+    <desc lang="en">A romantic adventure in which Rosalind and Orlando's celebrated courtship is against a backdrop of political rivalry, banishment and exile.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260818073500 +0000" stop="20260818100000 +0000" channel="HBOSignatureAsia.sg@SD">
+    <title lang="en">SUPERMAN</title>
+    <desc lang="en">This star-packed extravaganza brings the comic book legend to the big screen where an infant superhero is sent to Earth just as his home planet, Krypton, explodes.</desc>
+    <category lang="en">Sci-Fi</category>
+  </programme>
+  <programme start="20260818100000 +0000" stop="20260818102500 +0000" channel="HBOSignatureAsia.sg@SD">
+    <title lang="en">HOLLYWOOD ON SET S1</title>
+    <desc lang="en">Each week Hollywood On Set goes behind-the-scenes on three major movies in production, featuring action footage and interviews with filmmakers.</desc>
+    <category lang="en">Specials</category>
+  </programme>
+  <programme start="20260818102500 +0000" stop="20260818115500 +0000" channel="HBOSignatureAsia.sg@SD">
+    <title lang="en">TOXIC HOT SEAT</title>
+    <desc lang="en">This HBO documentary looks at the nexus of money, politics and power – and a group of citizens as they fight to expose a campaign that has left a toxic legacy in America.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260818115500 +0000" stop="20260818140000 +0000" channel="HBOSignatureAsia.sg@SD">
+    <title lang="en">STARDUST</title>
+    <desc lang="en">A young man discovers the meaning of true love while battling princes, ghosts and an evil witch in a quest to protect the girl of his dreams.</desc>
+    <category lang="en">Sci-Fi</category>
+  </programme>
+  <programme start="20260818140000 +0000" stop="20260818150000 +0000" channel="HBOSignatureAsia.sg@SD">
+    <title lang="en">LANTERNS S1</title>
+    <desc lang="en">The series follows new recruit John Stewart and Lantern legend Hal Jordan, two intergalactic cops drawn into a dark, earth-based mystery as they investigate a murder in the American heartland.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260818150000 +0000" stop="20260818165000 +0000" channel="HBOSignatureAsia.sg@SD">
+    <title lang="en">CIVIL WAR</title>
+    <desc lang="en">In a dystopian future America, a team of military-embedded journalists races against time to reach Washington, D.C., before rebel factions descend upon the White House.</desc>
+    <category lang="en">English Movies</category>
+  </programme>
   <programme start="20260815154000 +0000" stop="20260815172500 +0000" channel="Warner.id">
     <title lang="id">Cellular</title>
     <desc lang="id">Panggilan salah sambung menyeret seorang pria ke misi penyelamatan nyawa wanita yang diculik.</desc>
