@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
   <channel site="maxstream.tv" site_id="0_meap4fi2" lang="id" xmltv_id="Warner.id">Warner TV</channel>
-  <channel site="content.astro.com.my" site_id="143" lang="en" xmltv_id="HBO.id">HBO HD</channel>
-  <channel site="content.astro.com.my" site_id="449" lang="en" xmltv_id="HBOHits.id">HBO Hits</channel>
-  <channel site="content.astro.com.my" site_id="450" lang="en" xmltv_id="HBOFamily.id">HBO Family</channel>
-  <channel site="content.astro.com.my" site_id="337" lang="en" xmltv_id="Cinemax.id">Cinemax</channel>
-</channels>
+  <channel site="singtel.com" site_id="6420" lang="en" xmltv_id="HBOAsia.sg@SD">HBO HD</channel>
+  <channel site="singtel.com" site_id="6422" lang="en" xmltv_id="HBOFamilyAsia.sg@SD">HBO Family (HD)</channel>
+  <channel site="singtel.com" site_id="6423" lang="en" xmltv_id="HBOHitsAsia.sg@SD">HBO Hits (HD)</channel>
+  <channel site="singtel.com" site_id="6421" lang="en" xmltv_id="HBOSignatureAsia.sg@SD">HBO Signature (HD)</channel>
+  <channel site="singtel.com" site_id="6424" lang="en" xmltv_id="CinemaxAsia.sg@SD">CINEMAX (HD)</channel>
