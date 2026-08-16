@@ -6,17 +6,14 @@
   <channel id="HBO.id">
     <display-name>HBO HD</display-name>
   </channel>
-  <channel id="HBOSignature.id">
-    <display-name>HBO Signature HD</display-name>
-  </channel>
   <channel id="HBOHits.id">
-    <display-name>HBO Hits HD</display-name>
+    <display-name>HBO Hits</display-name>
   </channel>
   <channel id="HBOFamily.id">
-    <display-name>HBO Family HD</display-name>
+    <display-name>HBO Family</display-name>
   </channel>
   <channel id="Cinemax.id">
-    <display-name>Cinemax HD</display-name>
+    <display-name>Cinemax</display-name>
   </channel>
   <programme start="20260815154000 +0000" stop="20260815172500 +0000" channel="Warner.id">
     <title lang="id">Cellular</title>
