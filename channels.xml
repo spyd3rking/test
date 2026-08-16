@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
+  <channel site="maxstream.tv" site_id="0_meap4fi2" lang="id" xmltv_id="Warner.id">Warner TV</channel>
   <channel site="maxstream.tv" site_id="0_7vx2webw" lang="id" xmltv_id="CinemaxAsia.sg@SD">Cinemax</channel>
   <channel site="maxstream.tv" site_id="0_xgdr0qbd" lang="id" xmltv_id="HBOAsia.sg@SD">HBO</channel>
   <channel site="maxstream.tv" site_id="0_qqui53si" lang="id" xmltv_id="HBOFamilyAsia.sg@SD">HBO Family</channel>
